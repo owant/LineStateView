@@ -19,6 +19,7 @@
         div:lineGradeSize="8" />
 
     <com.owant.linestateview.view.LineStateView
+        android:id="@+id/main_lsv_test"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp" />
